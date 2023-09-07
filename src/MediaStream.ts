@@ -1,5 +1,5 @@
 
-import EventTarget from 'event-target-shim';
+import EventTarget from '../node_modules/event-target-shim';
 import { NativeModules } from 'react-native';
 
 import MediaStreamTrack from './MediaStreamTrack';

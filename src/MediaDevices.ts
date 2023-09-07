@@ -1,5 +1,5 @@
 
-import { defineCustomEventTarget } from 'event-target-shim';
+import { defineCustomEventTarget } from '../node_modules/event-target-shim';
 import { NativeModules } from 'react-native';
 
 import getDisplayMedia from './getDisplayMedia';

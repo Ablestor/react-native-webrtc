@@ -1,4 +1,4 @@
-import { Event } from 'event-target-shim';
+import { Event } from '../node_modules/event-target-shim';
 
 // Import for documentation purposes
 // eslint-disable-next-line @typescript-eslint/no-unused-vars

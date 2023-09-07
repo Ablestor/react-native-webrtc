@@ -1,4 +1,4 @@
-import { Event } from 'event-target-shim';
+import { Event } from '../node_modules/event-target-shim';
 export type MessageEventData = string | ArrayBuffer | Blob;
 
 type MESSAGE_EVENTS = 'message' | 'messageerror';

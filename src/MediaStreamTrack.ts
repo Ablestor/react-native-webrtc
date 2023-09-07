@@ -1,5 +1,5 @@
 
-import { defineCustomEventTarget, Event } from 'event-target-shim';
+import { defineCustomEventTarget, Event } from '../node_modules/event-target-shim';
 import { NativeModules } from 'react-native';
 
 import { addListener, removeListener } from './EventEmitter';
